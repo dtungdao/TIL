@@ -1,2 +1,3 @@
 # TIL
-Today I Learn | Recording all thing learn day by day
+Today I Learned | Recording all thing learned day by day. TIL are markdown format and not a tutorial
+
